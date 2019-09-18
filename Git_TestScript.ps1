@@ -7,7 +7,7 @@ foreach ($service in $svc) {
 
    Write-Host "$($service.name),$($service.status)"
 
-   # Modified
+   # Modified as v2.0 
 
 }
 
